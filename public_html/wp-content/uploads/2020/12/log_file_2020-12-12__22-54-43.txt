@@ -1,0 +1,75 @@
+
+---Downloaded files---
+The import files for: Español Modern - Elementor were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://caceresyferro.com
+Data file = /home/c9ohvqg218t3/public_html/wp-content/plugins/realhomes-demo-import/demos/spanish-elementor-modern/contents.xml
+Widget file = /home/c9ohvqg218t3/public_html/wp-content/plugins/realhomes-demo-import/demos/spanish-elementor-modern/widgets.wie
+Customizer file = /home/c9ohvqg218t3/public_html/wp-content/plugins/realhomes-demo-import/demos/spanish-elementor-modern/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+RealHomes - Agents - Agentes - Imported
+RealHomes - Featured Properties - Propiedades Destacadas - Imported
+Categorías - No Title - Imported
+
+Pages Sidebar : 
+
+RealHomes - Agents - No Title - Imported
+RealHomes - Featured Properties - Propiedades Destacadas - Imported
+
+Property Sidebar : 
+
+RealHomes - Featured Properties - Propiedades Destacadas - Imported
+
+Properties Pages Sidebar : 
+
+RealHomes - Agents - No Title - Imported
+RealHomes - Property Types - Tipos de Propiedad - Imported
+RealHomes - Featured Properties - Propiedades Destacadas - Imported
+
+Footer First Column : 
+
+Menú de Navegación - Enlaces Rápidos - Imported
+
+Footer Second Column : 
+
+RealHomes - Property Types - Tipos de Propiedad - Imported
+
+Footer Third Column : 
+
+Nube de etiquetas - Etiquetas - Imported
+
+Agent Sidebar : 
+
+RealHomes - Agent Featured Properties - Propiedades Destacadas - Imported
+RealHomes - Property Types - Tipos de Propiedad - Imported
+
+Agency Sidebar : 
+
+RealHomes - Featured Properties - Propiedades Destacadas - Imported
+RealHomes - Property Types - Tipos de Propiedad - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rhdi/after_import---
+

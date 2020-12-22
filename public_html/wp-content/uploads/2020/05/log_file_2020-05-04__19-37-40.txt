@@ -1,0 +1,69 @@
+
+---Downloaded files---
+The import files for: Modern - Elementor Based Homepage were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://demo.realhomes.io/spanish
+Data file = /var/www/demo.realhomes.io/htdocs/wp-content/themes/realhomes/framework/demos/elementor-modern/contents.xml
+Widget file = /var/www/demo.realhomes.io/htdocs/wp-content/themes/realhomes/framework/demos/elementor-modern/widgets.wie
+Customizer file = /var/www/demo.realhomes.io/htdocs/wp-content/themes/realhomes/framework/demos/elementor-modern/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Barra lateral por defecto : 
+
+RealHomes - Agentes - No Title - Imported
+RealHomes - Propiedades destacadas - Featured Properties - Imported
+Buscar - No Title - Widget already exists
+Categorías - No Title - Imported
+
+Barra lateral de páginas : 
+
+RealHomes - Agentes - No Title - Imported
+RealHomes - Propiedades destacadas - Featured Properties - Imported
+
+Barra lateral de propiedades : 
+
+Mortgage Calculator - Mortgage Calculator - Imported
+RealHomes - Propiedades destacadas - Featured Properties - Imported
+
+Páginas de propiedades Barra lateral : 
+
+RealHomes - Agentes - No Title - Imported
+RealHomes - Tipos de propiedad - Property Types - Imported
+RealHomes - Propiedades destacadas - Featured Properties - Imported
+
+Columna de primer pie de página : 
+
+Menú de navegación - Quick Links - Imported
+
+Columna de segundo pie de página : 
+
+RealHomes - Tipos de propiedad - No Title - Imported
+
+Columna de tercer pie de página : 
+
+Nube de etiquetas - No Title - Imported
+
+Barra lateral de agente : 
+
+RealHomes - Propiedades destacadas del agente - Featured Properties - Imported
+RealHomes - Tipos de propiedad - No Title - Imported
+
+Barra Lateral de la Agencia : 
+
+RealHomes - Propiedades destacadas - Featured Properties - Imported
+RealHomes - Tipos de propiedad - Property Types - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

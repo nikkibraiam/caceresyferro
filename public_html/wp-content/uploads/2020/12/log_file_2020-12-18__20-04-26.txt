@@ -1,0 +1,64 @@
+
+---Downloaded files---
+The import files for: Modern - Elementor were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://caceresyferro.com
+Data file = /home/c9ohvqg218t3/public_html/wp-content/plugins/realhomes-demo-import/demos/elementor-modern/contents.xml
+Widget file = /home/c9ohvqg218t3/public_html/wp-content/plugins/realhomes-demo-import/demos/elementor-modern/widgets.wie
+Customizer file = /home/c9ohvqg218t3/public_html/wp-content/plugins/realhomes-demo-import/demos/elementor-modern/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Default Sidebar : 
+
+agents_list_widget - No Title - Site does not support widget
+featured_properties_widget - Featured Properties - Site does not support widget
+Buscar - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+
+Pages Sidebar : 
+
+agents_list_widget - No Title - Site does not support widget
+featured_properties_widget - Featured Properties - Site does not support widget
+
+Property Sidebar : 
+
+featured_properties_widget - Featured Properties - Site does not support widget
+
+Properties Pages Sidebar : 
+
+agents_list_widget - No Title - Site does not support widget
+property_types_widget - Property Types - Site does not support widget
+featured_properties_widget - Featured Properties - Site does not support widget
+
+Footer First Column : 
+
+Menú de Navegación - Quick Links - Imported
+
+Footer Second Column : 
+
+property_types_widget - No Title - Site does not support widget
+
+Footer Third Column : 
+
+Nube de etiquetas - No Title - Imported
+
+Agent Sidebar : 
+
+agent_featured_properties_widget - Featured Properties - Site does not support widget
+property_types_widget - No Title - Site does not support widget
+
+Agency Sidebar : 
+
+featured_properties_widget - Featured Properties - Site does not support widget
+property_types_widget - Property Types - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rhdi/after_import---
+
